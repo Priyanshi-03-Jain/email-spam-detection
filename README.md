@@ -1,9 +1,9 @@
-# Email Spam Detection 📧🚫
+# Email Spam Detection 
 
 A machine learning project that classifies emails as **Spam** or **Ham** using **Logistic Regression**.
 
 ## 🔹 Overview
-- Dataset contains email messages labeled as spam or ham
+- Dataset contains email messages labeled as spam or ham.
 - Text data converted to numerical features using **TF-IDF**
 - Model trained using **Logistic Regression**
 
